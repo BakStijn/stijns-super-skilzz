@@ -1,0 +1,11 @@
+-	Componenten hebben één verantwoordelijkheid.
+-	Consistente bestandstructuur(templating)
+-	Duidelijke benamingen voor componenten, props, emits en composables.
+-	Gebruik van BEM
+-	Herbuikbare code staat in comosables of stores
+-	Logica van componenten in script definiëren
+-	Props hebben validatie of zijn getypeerd.
+-	Pinia stores met niet te veel logica
+-	Duidelijk onderscheid tussen globa en local states
+-	Templates zijn niet te lang, geen inline code of hardcoded values
+-	Complexe logica in templates wordt verplaatst naar computed propeties.
