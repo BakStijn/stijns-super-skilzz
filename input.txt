@@ -1,11 +1,16 @@
--	Componenten hebben één verantwoordelijkheid.
--	Consistente bestandstructuur(templating)
--	Duidelijke benamingen voor componenten, props, emits en composables.
--	Gebruik van BEM
--	Herbuikbare code staat in comosables of stores
--	Logica van componenten in script definiëren
--	Props hebben validatie of zijn getypeerd.
--	Pinia stores met niet te veel logica
--	Duidelijk onderscheid tussen globa en local states
--	Templates zijn niet te lang, geen inline code of hardcoded values
--	Complexe logica in templates wordt verplaatst naar computed propeties.
+Topic: Maintainability
+Omschrijving: Controleert reeds geschreven code op maintainability
+Skill kennis: Is technisch maar niet een specifieke techniek als Vue. Onderzoek doen naar huidige practices OF onderzoek web best practices afgelopen 2 jaar.
+Lijst tools en subskills:
+x
+x
+x
+ 
+Contracten
+in: @file, @folded, Hele solution
+uit: markdown bestand met aandachtspunten. 
+Per aandachtspunt:
+- welk bestand. 
+- Welke regel. 
+- Reden waarom dit een aandschtspunt is. 
+Daarnaast zou het mooi zijn zou zijn als gebruiker een samenvatting te zien krijgt.

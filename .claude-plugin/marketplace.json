@@ -1,0 +1,13 @@
+{
+  "name": "stijns-super-skilzz",
+  "owner": { "name": "Sven Siertsema" },
+  "plugins": [
+    {
+      "name": "audit-maintainability",
+      "source": "./audit-maintainability",
+      "description": "Audits a file, folder, or whole solution for maintainability against 15 fixed principles, internal codebase conventions, and live external best practices.",
+      "version": "1.0.0",
+      "keywords": ["maintainability", "code-quality", "assessment", "audit", "review"]
+    }
+  ]
+}

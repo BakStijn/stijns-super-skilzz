@@ -1,0 +1,10 @@
+{
+  "name": "audit-maintainability",
+  "version": "1.0.0",
+  "description": "Audits a file, folder, or whole solution for maintainability against 15 fixed principles, internal codebase conventions, and live external best practices.",
+  "author": { "name": "Sven Siertsema" },
+  "repository": "https://github.com/SSiertsema/claude-code-plugins",
+  "license": "MIT",
+  "keywords": ["maintainability", "code-quality", "assessment", "audit", "review"],
+  "skills": "./skills"
+}
